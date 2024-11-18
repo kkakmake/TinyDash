@@ -13,7 +13,7 @@ TinyDash is a customized RP2040-Tiny connector board for self-made keyboards. It
 
 <img src="https://github.com/user-attachments/assets/9f9fbdef-b6f9-48fc-ada5-3edef9ec492f" width="30%">
 
-### Scematic
+### Schematic
 The power LED and reset switch found in the original circuit have been omitted. However, the reset button is implemented as a pad, which can be shorted with tweezers to reset the RP2040-Tiny.
 
 <img src="https://github.com/user-attachments/assets/0ffe8ad7-f78d-4a35-9114-5ce9839ca203" width="60%">
