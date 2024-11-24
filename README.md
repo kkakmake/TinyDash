@@ -11,7 +11,8 @@ TinyDash is a customized RP2040-Tiny connector board for self-made keyboards. It
 
 **TinyDash Choc** fits Choc sockets. Currently, TinyDash only has this one type.
 
-<img src="https://github.com/user-attachments/assets/9f9fbdef-b6f9-48fc-ada5-3edef9ec492f" width="30%">
+<img src="https://github.com/user-attachments/assets/d83669ca-7980-4b6a-b842-8db2d91e792b" width="50%">
+
 
 ### Schematic
 The power LED and reset switch found in the original circuit have been omitted. However, the reset button is implemented as a pad, which can be shorted with tweezers to reset the RP2040-Tiny.
