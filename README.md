@@ -22,6 +22,14 @@ The power LED and reset switch found in the original circuit have been omitted. 
 #### Production data
 [TinyDash/Gerber/TinyDashChoc/v2.0/](https://github.com/kkakmake/TinyDash/tree/51dfb41c6dbbbea27f5ecb82bc694be61e01b232/Gerber/TinyDashChoc/v2.0)
 
+Please note that the production data is in the form of ordering to JLCPCB. Also, since it is assumed to be a single-sided PCBA, you will need to solder the tact switch yourself. The switch used is a 3*4*2mm four-legged surface mount tact switch. 
+
+<img width="113" alt="tactsw" src="https://github.com/user-attachments/assets/c4481b4b-f900-4242-95fe-605c1ef56824">
+
+Please look for the part that matches "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KMR2" in KiCAD's footprint library.
+
+<img width="218" alt="tactsw_fp" src="https://github.com/user-attachments/assets/57a7c0f8-d68b-4ea4-bed6-02aaad13f4b9">
+
 #### Foot print (KiCAD)
 [TinyDash/Footprint/TinyDashChoc/v2.x/](https://github.com/kkakmake/TinyDash/tree/51dfb41c6dbbbea27f5ecb82bc694be61e01b232/Footprint/TinyDashChoc/v2.x)
 
