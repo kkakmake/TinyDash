@@ -23,7 +23,7 @@ The power LED and reset switch found in the original circuit have been omitted. 
 #### Production data
 [TinyDash/Gerber/TinyDashChoc/v2.0/](https://github.com/kkakmake/TinyDash/tree/51dfb41c6dbbbea27f5ecb82bc694be61e01b232/Gerber/TinyDashChoc/v2.0)
 
-Please note that the production data is in the form of ordering to JLCPCB. Also, since it is assumed to be a single-sided PCBA, you will need to solder the tact switch yourself. The switch used is a 3 * 4 * 2mm four-legs surface mount tact switch. 
+This production data is in the form of ordering to JLCPCB. And it is assumed to be a single-sided PCBA, you will need to solder the tact switch yourself. The switch used is a 3 * 4 * 2mm four-legs surface mount tact switch. (Like JLC Part#C19779114)
 
 <img width="113" alt="tactsw" src="https://github.com/user-attachments/assets/c4481b4b-f900-4242-95fe-605c1ef56824">
 
@@ -42,9 +42,13 @@ The TinyDash Choc use 3 sets of M1.6 screws and nuts.
 <img src="https://github.com/user-attachments/assets/0428b465-f241-4982-ba6e-874011c571f3" width="50%">
 
 #### Push BOOTSEL button
-You can use the needle to press the BOOTSEL button through the gap between the keys.
+You can use the some pin to press the BOOTSEL button through the gap between the keys.
 
 <img src="https://github.com/user-attachments/assets/b11ee690-49ba-4a40-8a57-1f35cf911d6c" width="50%">
+
+### More detailed instructions (in Japanese)
+
+https://goli-lab.hatenablog.com/entry/2024/11/26/214641
 
 # License
 TinyDash* is published under CC-BY-4.0.
